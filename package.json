@@ -77,9 +77,9 @@
   },
   "dependencies": {
     "@okfde/filingcabinet": "^0.0.1",
-    "@uppy/core": "^1.5.1",
-    "@uppy/dashboard": "^1.4.1",
-    "@uppy/tus": "^1.4.2",
+    "@uppy/core": "^1.18.1",
+    "@uppy/dashboard": "^1.19.1",
+    "@uppy/tus": "^1.8.7",
     "bootstrap": "^4.3.1",
     "bootstrap.native": "^2.0.27",
     "choices.js": "^4.1.3",
